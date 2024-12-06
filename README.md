@@ -1,7 +1,7 @@
 # Overview
-The Dog Breed Identification Project is a machine learning application that leverages deep learning techniques to accurately \
-identify dog breeds from images. This project combines a user-friendly graphical interface with a robust model trained on a\
-diverse dataset of dog images.
+The Dog Breed Identification Project is a machine learning application that leverages deep learning techniques to \
+accurately identify dog breeds from images. This project combines a user-friendly graphical interface with a \
+robust model trained on a diverse dataset of dog images.
 
 # Features
   Image Upload: Users can upload images of dogs for breed identification.\
