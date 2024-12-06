@@ -20,10 +20,10 @@ The application will process the image and display the predicted breed along wit
 
 # Model Training
 The model is trained using a dataset containing 6,390 images across 70 dog breeds. The training process involves:
-Data Preprocessing: Images are resized to 224x224 pixels and normalized for model input.
-Model Architecture: The InceptionV3 architecture is used for its efficiency in image classification tasks.
-Training Process: The model is trained for 10 epochs with accuracy reaching up to 99%.
+##Data Preprocessing: Images are resized to 224x224 pixels and normalized for model input.
+##Model Architecture: The InceptionV3 architecture is used for its efficiency in image classification tasks.
+##Training Process: The model is trained for 10 epochs with accuracy reaching up to 99%.
 
 # Key Training Parameters:
-Loss Function: Categorical Crossentropy
-Optimizer: Adam optimizer with a learning rate adjustment
+##Loss Function: Categorical Crossentropy
+##Optimizer: Adam optimizer with a learning rate adjustment
